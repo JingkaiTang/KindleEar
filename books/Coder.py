@@ -21,7 +21,7 @@ class Coder(BaseFeedBook):
     coverfile = 'cv_default.jpg'
     network_timeout = 60
     oldest_article = 7
-    max_articles_per_feed = 9
+    max_articles_per_feed = 64
     deliver_days = []
     deliver_times = [8, 20]
     oldest_article = 1
